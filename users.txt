@@ -1,0 +1,2 @@
+tester;Kirill;+375251234567;test@test.test;e10adc3949ba59abbe56e057f20f883e;2005-02-11
+hacker;bad-tester;+375254567891;hacker@hacker.com;e11adc3949ba59abbe56e057f20f883e;2000-01-01
